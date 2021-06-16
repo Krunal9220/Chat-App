@@ -16,4 +16,4 @@ Most of the source code is part of [The Complete Node.js Developer Course](https
 - [Socket.io](https://www.npmjs.com/package/handlebars) - JS Library
 
 ## Deployment
-[Heroku URL](https://krunal-chat-app.herokuapp.com/)
+[URL](https://krunal-chat-app.herokuapp.com/)
